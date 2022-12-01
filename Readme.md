@@ -87,7 +87,7 @@
 - Taktyczna
 - Tower Defense
 
- ## #Strona w Sklepie
+ ### Strona w Sklepie
  - [Ancient Planet Tower Defense (steam)](https://store.steampowered.com/app/345090/Ancient_Planet_Tower_Defense/)
  
  ### Gameplay
